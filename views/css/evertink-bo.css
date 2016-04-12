@@ -1,0 +1,12 @@
+.icon-AdminEvertinkRecord:before {
+    content:"\f087";
+}
+
+.form-15-compatibility input[type='text'] {
+    width: 100%;
+    max-width: 350px;
+}
+
+#conf_id_EVERTINK_SEND_EMAILS .margin-form {
+    text-align: left;
+}

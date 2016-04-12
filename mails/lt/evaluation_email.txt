@@ -1,0 +1,13 @@
+
+Gerb. pirkėjau,
+
+Jūs pirkote el. parduotuvėje {shop_name} (užsakymo data: {order_date}; užsakymo numeris:  {order_reference}).
+Kviečiame Jus įvertinti parduotuvę pirkėjų atsiliepimų portale evertink.lt paspaudus ant šios nuorodos:
+
+{evaluation_link}
+
+Jūsų atsiliepimas yra labai svarbus tobulinant el. parduotuvės aptarnavimo kokybę, o suteiktas reitingas - kitiems šios el. parduotuvės lankytojams priimant sprendimą pirkti.
+
+
+Pagarbiai,
+{shop_name} komanda

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>evertink</name>
+	<displayName><![CDATA[Evertink]]></displayName>
+	<version><![CDATA[1.0.2]]></version>
+	<description><![CDATA[Invite customers to rate your store]]></description>
+	<author><![CDATA[reservationpartner.com]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

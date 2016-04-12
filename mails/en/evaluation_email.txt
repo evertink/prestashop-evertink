@@ -1,0 +1,13 @@
+
+Dear customer,
+
+You have made a purchase in {shop_name} (order date: {order_date}; order ref.:  {order_reference}).
+We invite you to evaluate the shop in a customer feedback portal evertink.lt:
+
+{evaluation_link}
+
+Your feedback is important for us in our continuous effort to improve our services.
+
+
+Sincerely,
+{shop_name} team

@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{evertink}prestashop>evertink_5a452fbb1b0753e248e4218e4f03bfe1'] = 'Evertink';
 $_MODULE['<{evertink}prestashop>evertink_f5cfe435c81e6b218f166b55619786bd'] = 'Pakvieskite pirkėjus įvertinti jūsų parduotuvę';
 $_MODULE['<{evertink}prestashop>evertink_876f23178c29dc2552c0b48bf23cd9bd'] = 'Ar tikrai norite tai išdiegti?';
 $_MODULE['<{evertink}prestashop>evertink_122f3dfa04c3a0b00e6a9fe0eb8f271c'] = 'Nepavyko įdiegti naujo modulio į duomenų bazę.';
@@ -26,7 +25,7 @@ $_MODULE['<{evertink}prestashop>evertink_aae074ea284b29c2383db7c6bbac78c2'] = 'C
 $_MODULE['<{evertink}prestashop>evertink_3d85a629105302bf80c0a244b64c543d'] = 'Šis adresas gali būti įtrauktas į cron darbų sąrašą laiškų siuntimo automatizavimui.';
 $_MODULE['<{evertink}prestashop>evertink_ea4788705e6873b424c65e91c2846b19'] = 'Atšaukti';
 $_MODULE['<{evertink}prestashop>evertink_c9cc8cce247e49bae79f15173ce97354'] = 'Išsaugoti';
-$_MODULE['<{evertink}prestashop>evertink_e4b877bbad1b4ee231e5bd6d4d6b8d2e'] = 'Veršinimo laiškas';
+$_MODULE['<{evertink}prestashop>evertink_f139a8b24f590641e0089f4b4de54e25'] = 'Prašome įvertinti aptarnavimą';
 $_MODULE['<{evertink}prestashop>evertinkcore_1a11db3d2781e8ee1401eab17b296b6a'] = 'Modulio nustatymai';
 $_MODULE['<{evertink}prestashop>evertinkcore_c9cc8cce247e49bae79f15173ce97354'] = 'Išsaugoti';
 $_MODULE['<{evertink}prestashop>evertinkcore_ea4788705e6873b424c65e91c2846b19'] = 'Atšaukti ';

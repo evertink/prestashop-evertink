@@ -283,7 +283,7 @@ class Evertink extends EvertinkCore
             $args = array(
                 'language_id' => $customer->id_lang,
                 'template_name' => 'evaluation_email',
-                'subject' => $this->l('Evaluation email'),
+                'subject' => $this->l('Please rate received service for order').' "'.$order->reference.'"',
                 'template_vars' => array(
                     '{order_reference}' => $order->reference,
                     '{order_date}' => $order->date_add,

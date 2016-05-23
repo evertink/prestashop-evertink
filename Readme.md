@@ -18,6 +18,7 @@ Link for setting up cron task is available. Manual trigger also available by goi
 
 ## Changelog
 
+1.0.3: Change email title
 1.0.2: Add retro-compatibility for Prestashop 1.5
 1.0.1: Add informative message to admin page, add lithuanian translations.
 1.0.0: Initial release.
